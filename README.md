@@ -209,10 +209,27 @@ npm run build
 
 ---
 
-## 🌐 Live Demo
 ---
-> https://project-management-dashboard-teal.vercel.app/
-> ---
+
+## 📸 Screenshots
+
+> *(Add screenshots or a screen-recorded GIF here before submission)*
+
+| Page | Preview |
+|---|---|
+| Dashboard (Kanban) | ![Dashboard](./screenshots/dashboard.png) |
+| Projects List | ![Projects](./screenshots/projects.png) |
+| Project Detail | ![Detail](./screenshots/projectdetail.png) |
+| Tasks Table | ![Tasks](./screenshots/tasks.png) |
+| Employees Page | ![Employees](./screenshots/employees.png) |
+
+---
+
+## 🌐 Live Demo
+
+> *(Add your Vercel/Netlify deployment URL here)*
+
+---
 
 ## 👨‍💻 Author
 
