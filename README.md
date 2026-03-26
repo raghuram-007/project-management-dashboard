@@ -217,11 +217,11 @@ npm run build
 
 | Page | Preview |
 |---|---|
-| Dashboard (Kanban) | ![Dashboard](./screenshots/dashboard.png) |
-| Projects List | ![Projects](./screenshots/projects.png) |
-| Project Detail | ![Detail](./screenshots/projectdetail.png) |
-| Tasks Table | ![Tasks](./screenshots/tasks.png) |
-| Employees Page | ![Employees](./screenshots/employees.png) |
+| Dashboard (Kanban) | ![dashboard](./screenshots/dashboard.png) |
+| Projects List | ![projects](./screenshots/projects.png) |
+| Project Detail | ![projectdetail](./screenshots/projectdetail.png) |
+| Tasks Table | ![tasks](./screenshots/tasks.png) |
+| Employees Page | ![employees](./screenshots/employees.png) |
 
 ---
 
