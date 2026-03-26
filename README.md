@@ -5,7 +5,6 @@
 ![Redux](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![React Router](https://img.shields.io/badge/React_Router_v6-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 ![GitHub Last Commit](https://img.shields.io/github/last-commit/raghuram-007/project-management-dashboard?style=for-the-badge)
 ![GitHub Stars](https://img.shields.io/github/stars/raghuram-007/project-management-dashboard?style=for-the-badge)
@@ -216,9 +215,4 @@ npm run build
 - GitHub: [@raghuram-007](https://github.com/raghuram-007)
 
 ---
-
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
-```
 
