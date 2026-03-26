@@ -227,7 +227,7 @@ npm run build
 
 ## 🌐 Live Demo
 
-> *(Add your Vercel/Netlify deployment URL here)*
+> Live Link: https://project-management-dashboard-teal.vercel.app/
 
 ---
 
